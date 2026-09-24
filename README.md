@@ -15,3 +15,6 @@ npx sv create mandelbulb
 
 Added the bulb rotation and wobble as well as applied a color gradient.
 
+## Algorithm
+
+The algorithm for a Mandelbulb calculates a three-dimensional analog to the 2D Mandelbrot set by iteratively applying the power formula\(Z = Z^n + C\) using spherical coordinate conversion. 
