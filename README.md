@@ -18,3 +18,7 @@ Added the bulb rotation and wobble as well as applied a color gradient.
 ## Algorithm
 
 The algorithm for a Mandelbulb calculates a three-dimensional analog to the 2D Mandelbrot set by iteratively applying the power formula\(Z = Z^n + C\) using spherical coordinate conversion. 
+
+### Calculation
+
+<img width="865" height="989" alt="mandelbulb-algorithm" src="https://github.com/user-attachments/assets/afe0bd23-d9dd-4ae8-a620-eb8ccd7e823c" />
